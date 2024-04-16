@@ -19,17 +19,18 @@
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/tailwindcss-white?logo=tailwindcss"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Next.js-black?logo=nextjs"/></a>&nbsp
   </p>
   <br>
   <h4>🌱 Currently Learning</h4>
   <p>
-    <img src="https://img.shields.io/badge/Next.js-black?logo=nextjs"/></a>&nbsp
 <!--     <img src="https://img.shields.io/badge/Node.js-A5DF00?logo=node.js"/></a>&nbsp
     <img src="https://img.shields.io/badge/Express.js-black?logo=express"/></a>&nbsp -->
     <img src="https://img.shields.io/badge/MongoDB-3B170B?logo=mongodb"/></a>&nbsp
 <!--     <img src="https://img.shields.io/badge/AWS-white?logo=amazon"/></a>&nbsp -->
 <!--     <img src=""/></a>&nbsp --><br>
-    <strong>코드잇 스프린트 프론트엔드 트랙 2기에서 공부 중!</strong>
+   
+  <strong>코드잇 스프린트 프론트엔드 트랙 2기 수료!</strong>
   </p>
   <br>
   <h4>⭐ Interested In</h4>
@@ -48,8 +49,6 @@
   <h3><hr/></h3>
   <br/>
   <p>
-    <a href="https://https://lhv0829.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=http://https://lhv0829.tistory.com"/></a>&nbsp
-<!--     <a href="https://joyful-young.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white&link=http://joyful-young.github.io"/></a>&nbsp -->
   </p>
   <br>
 
