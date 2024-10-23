@@ -26,7 +26,8 @@
   <p>
 <!--     <img src="https://img.shields.io/badge/Node.js-A5DF00?logo=node.js"/></a>&nbsp
     <img src="https://img.shields.io/badge/Express.js-black?logo=express"/></a>&nbsp -->
-    <img src="https://img.shields.io/badge/MongoDB-3B170B?logo=mongodb"/></a>&nbsp
+<!--     <img src="https://img.shields.io/badge/MongoDB-3B170B?logo=mongodb"/></a>&nbsp -->
+    <img src="https://img.shields.io/badge/Java-white?logo=JAVA"/></a>&nbsp
 <!--     <img src="https://img.shields.io/badge/AWS-white?logo=amazon"/></a>&nbsp -->
 <!--     <img src=""/></a>&nbsp --><br>
    
@@ -42,7 +43,6 @@
     <img src="https://img.shields.io/badge/Flutter-white?logo=flutter&logoColor=00BFFF"/></a>&nbsp
     <img src="https://img.shields.io/badge/Kotlin-white?logo=kotlin"/></a>&nbsp
     <img src="https://img.shields.io/badge/Jetpack_Compose-white"/></a>&nbsp<br/>
-    <img src="https://img.shields.io/badge/Java-white?logo=JAVA"/></a>&nbsp
     <img src="https://img.shields.io/badge/Spring-white?logo=spring"/></a>&nbsp
   </p>
   <br>
